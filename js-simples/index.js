@@ -30,5 +30,14 @@ const nome = "cvwhjvb"
 
 console.log(nome);
 
+/* 
+igualdade (==)
+diferente(!=)
+identico(===)
+nao identico(!==)
+E (&&)
+not (!) exemplo(!(a===b))
+or (|| )
+*/
 
  
